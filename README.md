@@ -2,7 +2,7 @@
 
 This repository contains the source to various Internet-Drafts that are work in progress, in no particular state of completion, and invites others to make use of this work in progress.
 
-They are in kramdown-rfc2629 form, which is a YAML header (mostly used for literature references) followed by one or more pieces of markdown text (kramdown flavor).
+They are in kramdown-rfc2629 form, which is a YAML header (mostly used for literature references) followed by one or more pieces of markdown text (kramdown flavor — unfortunately, github flavored markdown does not properly show the tables in these documents).
 
 If you want to make use of these,
 
